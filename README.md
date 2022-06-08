@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaydevyadav
-- 👀 I’m interested in IOT,ESP8266, Embedded Systems
-- 🌱 I’m currently learning ESP8266 & C/C++ 
+- 👀 I’m interested in FPGA, AVR MUCs, IOT, ESP8266, Embedded Systems
+- 🌱 I’m currently learning Verilog, VHDL 
 
 
 <!---
