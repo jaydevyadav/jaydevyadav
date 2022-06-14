@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaydevyadav
-- 👀 I’m interested in FPGA, AVR MUCs, IOT, ESP8266, Embedded Systems
-- 🌱 I’m currently learning Verilog, VHDL 
+- 👀 I Have Work Experience in FPGA, AVR MUCs, IOT, ESP8266, ESP32, Embedded Systems, Robotics, Verilog, VHDL etc.
+- 🌱 I’m currently learning CAD Designing, Control System etc.
 
 
 <!---
