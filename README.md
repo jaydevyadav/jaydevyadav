@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaydevyadav
-- 👀 I Have Work Experience in FPGA, AVR MUCs, IOT, ESP8266, ESP32, Embedded Systems, Robotics, Verilog, VHDL etc.
-- 🌱 I’m currently learning CAD Designing, Control System etc.
+- 👀 I Have Work Experience in FPGA, AVR uCs, STM32 uCs, ESP8266, ESP32, Embedded Systems, PCB Designing, Robotics, Iot, Verilog, VHDL etc.
+- 🌱 I’m currently learning Applications Specific Advanced Embedded System Design and Development etc.
 
 
 <!---
